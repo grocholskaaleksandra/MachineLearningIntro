@@ -1,0 +1,13 @@
+name: Machine_Learning_intro
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python== 3.8.2
+ - pandas
+ - pytest
+ - isort
+ - pre-commit
+ - flake8
+ - pip
+ - numpy
