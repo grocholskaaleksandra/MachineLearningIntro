@@ -11,3 +11,7 @@ dependencies:
  - flake8
  - pip
  - numpy
+ - notebook
+ - nb_conda_kernels
+ - pip
+ - pandas-profiling
