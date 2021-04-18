@@ -13,3 +13,10 @@ dependencies:
  - numpy
  - notebook
  - nb_conda_kernels
+ - seaborn
+ - altair
+ - empiricaldist
+ - Streamlit
+ - scikit-learn
+ - matplotlib
+ - pandas-profilling
