@@ -19,4 +19,4 @@ dependencies:
  - Streamlit
  - scikit-learn
  - matplotlib
- - pandas-profilling
+ - pandas-profiling
