@@ -1,10 +1,8 @@
-#First review
-
+import matplotlib.pyplot as plt
+import numpy as np
+import os
 import pandas as pd
 import seaborn as sns
-import matplotlib.pyplot as plt
-import os
-import numpy as np
 
 def welcome() -> None:
     """
